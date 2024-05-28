@@ -1,16 +1,16 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-<p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Muhammad+Ryan+Ramadhan;Software+Engineer;Frontend+Developer;Mobile+Developer;Semi-Fullstack Engineer">
-</p>
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlmdGVkOGhxOGY2OW51djd6dXdwZXg5ZHhxMjFsenVzejJvanloYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy-downsized.gif" width="210" height="210" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<h1> Hi there! I'm Muhammad Ryan Ramadhan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 
-- 😄 Pronouns: He/Him
+<br/>
 
-- 🌏 I'm from Indonesia
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlmdGVkOGhxOGY2OW51djd6dXdwZXg5ZHhxMjFsenVzejJvanloYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy-downsized.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
-- 🌱 I'm currently learning **Software Engineer**
+- 😄 Pronouns: He/Him.
 
-- 💬 Ask me about **React, React Native, Flutter, Next.js, Laravel**
+- 🌏 I'm from Indonesia.
+
+- 🌱 Currently as **Software Engineer**, can be frontend,backend, semi-fullstack.
+
+- 📖 I'm learning about **React, React Native, Flutter, Next.js, Laravel**
 
 - 📫 Reach me at **muhzryan@gmail.com**
 
@@ -180,9 +180,9 @@
 
 <!-- Tools and Platforms -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhzryanrey/muhzryanrey/muhzryanrey/muhzryanrey/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhzryanrey/muhzryanrey/muhzryanrey/muhzryanrey/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhzryanrey/muhzryanrey/muhzryanrey/muhzryanrey/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhzryanrey/muhzryanrey/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhzryanrey/muhzryanrey/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhzryanrey/muhzryanrey/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/>
