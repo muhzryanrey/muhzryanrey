@@ -186,8 +186,8 @@
 <br/>
 <br/>
 
-<img align="right" width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=muhzryanrey&theme=vue-dark&show_icons=true&hide_border=true' />
+<img align="right" width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=muhzryanrey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <img width="350" src='https://github-readme-stats.vercel.app/api?username=muhzryanrey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <br/>
-<img width="350" src='https://github-readme-streak-stats.herokuapp.com/?user=muhzryanrey&theme=vue-dark&hide_border=true' />
+<img width="350" src='https://github-readme-streak-stats.herokuapp.com/?user=muhzryanrey&theme=vue-dark&hide_border=true&count_private=true' />
 <br/>
